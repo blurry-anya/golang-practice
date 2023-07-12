@@ -5,6 +5,7 @@ use (
 	./cars-assemble
 	./hello-world
 	./lasagna
+	./party-robot
 	./scrabble-score
 	./simple-cipher
 	./two-fer
