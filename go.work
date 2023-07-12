@@ -9,4 +9,5 @@ use (
 	./simple-cipher
 	./two-fer
 	./weather-forecast
+	./welcome-to-tech-palace
 )
