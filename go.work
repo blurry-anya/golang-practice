@@ -1,9 +1,12 @@
 go 1.20
 
 use (
+	./annalyns-infiltration
+	./cars-assemble
 	./hello-world
 	./lasagna
 	./scrabble-score
 	./simple-cipher
 	./two-fer
+	./weather-forecast
 )
