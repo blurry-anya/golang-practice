@@ -8,8 +8,11 @@ use (
 	./card-tricks
 	./cars-assemble
 	./chessboard
+	./election-day
+	./elons-toys
 	./gross-store
 	./hello-world
+	./interest-is-interesting
 	./lasagna
 	./lasagna-master
 	./logs-logs-logs
