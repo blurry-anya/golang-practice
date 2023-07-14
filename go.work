@@ -4,10 +4,12 @@ use (
 	./annalyns-infiltration
 	./bird-watcher
 	./blackjack
+	./booking-up-for-beauty
 	./card-tricks
 	./cars-assemble
 	./hello-world
 	./lasagna
+	./lasagna-master
 	./need-for-speed
 	./party-robot
 	./scrabble-score
