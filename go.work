@@ -7,9 +7,12 @@ use (
 	./booking-up-for-beauty
 	./card-tricks
 	./cars-assemble
+	./chessboard
+	./gross-store
 	./hello-world
 	./lasagna
 	./lasagna-master
+	./logs-logs-logs
 	./need-for-speed
 	./party-robot
 	./scrabble-score
