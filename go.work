@@ -8,6 +8,7 @@ use (
 	./booking-up-for-beauty
 	./card-tricks
 	./cars-assemble
+	./census
 	./chessboard
 	./election-day
 	./elons-toys
@@ -21,6 +22,7 @@ use (
 	./party-robot
 	./scrabble-score
 	./simple-cipher
+	./sorting-room
 	./the-farm
 	./two-fer
 	./vehicle-purchase
