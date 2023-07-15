@@ -2,6 +2,7 @@ go 1.20
 
 use (
 	./airport-robot
+	./animal-magic
 	./annalyns-infiltration
 	./bird-watcher
 	./blackjack
@@ -12,6 +13,7 @@ use (
 	./chessboard
 	./election-day
 	./elons-toys
+	./expenses
 	./gross-store
 	./hello-world
 	./interest-is-interesting
@@ -19,6 +21,7 @@ use (
 	./lasagna-master
 	./logs-logs-logs
 	./need-for-speed
+	./parsing-log-files
 	./party-robot
 	./scrabble-score
 	./simple-cipher
