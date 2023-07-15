@@ -1,6 +1,7 @@
 go 1.20
 
 use (
+	./airport-robot
 	./annalyns-infiltration
 	./bird-watcher
 	./blackjack
@@ -20,6 +21,7 @@ use (
 	./party-robot
 	./scrabble-score
 	./simple-cipher
+	./the-farm
 	./two-fer
 	./vehicle-purchase
 	./weather-forecast
