@@ -11,6 +11,7 @@ use (
 	./cars-assemble
 	./census
 	./chessboard
+	./collatz-conjecture
 	./election-day
 	./elons-toys
 	./expenses
@@ -20,6 +21,7 @@ use (
 	./lasagna
 	./lasagna-master
 	./logs-logs-logs
+	./meteorology
 	./need-for-speed
 	./parsing-log-files
 	./party-robot
