@@ -15,11 +15,14 @@ use (
 	./election-day
 	./elons-toys
 	./expenses
+	./gigasecond
 	./gross-store
+	./hamming
 	./hello-world
 	./interest-is-interesting
 	./lasagna
 	./lasagna-master
+	./leap
 	./logs-logs-logs
 	./meteorology
 	./need-for-speed
