@@ -12,6 +12,7 @@ use (
 	./census
 	./chessboard
 	./collatz-conjecture
+	./difference-of-squares
 	./election-day
 	./elons-toys
 	./expenses
@@ -20,10 +21,12 @@ use (
 	./hamming
 	./hello-world
 	./interest-is-interesting
+	./isogram
 	./lasagna
 	./lasagna-master
 	./leap
 	./logs-logs-logs
+	./luhn
 	./meteorology
 	./need-for-speed
 	./parsing-log-files
