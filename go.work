@@ -29,11 +29,15 @@ use (
 	./luhn
 	./meteorology
 	./need-for-speed
+	./nucleotide-count
 	./parsing-log-files
 	./party-robot
+	./resistor-color
+	./rna-transcription
 	./scrabble-score
 	./simple-cipher
 	./sorting-room
+	./space-age
 	./the-farm
 	./two-fer
 	./vehicle-purchase
