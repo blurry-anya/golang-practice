@@ -16,6 +16,7 @@ use (
 	./difference-of-squares
 	./election-day
 	./elons-toys
+	./etl
 	./expenses
 	./gigasecond
 	./gross-store
@@ -44,6 +45,7 @@ use (
 	./space-age
 	./strain
 	./the-farm
+	./twelve-days
 	./two-fer
 	./vehicle-purchase
 	./weather-forecast
