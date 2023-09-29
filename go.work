@@ -28,6 +28,7 @@ use (
 	./leap
 	./logs-logs-logs
 	./luhn
+	./matrix
 	./meteorology
 	./need-for-speed
 	./nucleotide-count
