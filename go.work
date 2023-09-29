@@ -12,6 +12,7 @@ use (
 	./census
 	./chessboard
 	./collatz-conjecture
+	./darts
 	./difference-of-squares
 	./election-day
 	./elons-toys
@@ -30,14 +31,17 @@ use (
 	./meteorology
 	./need-for-speed
 	./nucleotide-count
+	./pangram
 	./parsing-log-files
 	./party-robot
 	./resistor-color
+	./reverse-string
 	./rna-transcription
 	./scrabble-score
 	./simple-cipher
 	./sorting-room
 	./space-age
+	./strain
 	./the-farm
 	./two-fer
 	./vehicle-purchase
