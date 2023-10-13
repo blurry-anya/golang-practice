@@ -6,6 +6,7 @@ use (
 	./annalyns-infiltration
 	./bird-watcher
 	./blackjack
+	./bob
 	./booking-up-for-beauty
 	./card-tricks
 	./cars-assemble
