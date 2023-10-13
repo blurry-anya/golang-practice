@@ -12,6 +12,7 @@ use (
 	./census
 	./chessboard
 	./collatz-conjecture
+	./crypto-square
 	./darts
 	./difference-of-squares
 	./election-day
