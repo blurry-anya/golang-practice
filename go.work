@@ -21,6 +21,7 @@ use (
 	./etl
 	./expenses
 	./gigasecond
+	./grains
 	./gross-store
 	./hamming
 	./hello-world
